@@ -1,6 +1,7 @@
 # Real-Time WebSocket Communication with Socket.io
 
 A robust real-time communication system built with Node.js, Express, Socket.io, and React for CodeVa Internship Task 2.
+![Demo](g.gif)
 
 ## 🚀 Features
 
